@@ -20,4 +20,4 @@ I will be using a data set of recepies to try and build an understanding between
 ### At the end of the project we can reach an interactive visualization tool to explore the word embeddings as seen below.
 ## I strongly encourage to download 'temp-plot.html' and explore this interactive tool on your browser.
 
-![Network Graph of Word Embeddings](https://github.com/vera-ummugulsum/interactive_recommendation_system/blob/main/NetworkGraphOfWordEmbedding.PNG?raw=true)
+![Network Graph of Word Embeddings](https://github.com/vera-ummugulsum/interactive_recommendation_system/blob/main/Capture.PNG?raw=true)
